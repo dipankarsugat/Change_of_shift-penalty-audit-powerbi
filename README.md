@@ -3,7 +3,7 @@
 This project demonstrates a payroll audit dashboard built in Power BI
 to identify Change of Shift (COS) penalty compliance issues.
 
-![COS Audit Dashboard](images/cos_audit_dashboard.png)
+![COS Audit Dashboard](images/cos_audit_dashboard.jpg)
 
 ## Problem Statement
 COS penalties are expected when an employee’s shift start time
